@@ -1,3 +1,4 @@
+.tgz filter=lfs diff=lfs merge=lfs -text
 /Assets/Editor/Vuforia/ImageTargetTextures/Tarot/Tarot-Card-2_scaled.jpg filter=lfs diff=lfs merge=lfs -text
 /Assets/Editor/Vuforia/ImageTargetTextures/Test/chips_scaled.jpg filter=lfs diff=lfs merge=lfs -text
 /Assets/Editor/Vuforia/ImageTargetTextures/Test/stones_scaled.jpg filter=lfs diff=lfs merge=lfs -text
