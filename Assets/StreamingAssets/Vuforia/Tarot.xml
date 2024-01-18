@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Wizard" size="0.100000 0.100000" />
+    <ImageTarget name="Tarot-Card-2" size="0.100000 0.133475" />
+    <ImageTarget name="Tarot-Card-1" size="0.100000 0.165800" />
+  </Tracking>
+</QCARConfig>
